@@ -85,7 +85,7 @@ export const albumCubeConfig: AlbumCubeConfig = {
       id: 2,
       title: "APP DEV",
       subtitle: "MOBILE FIRST",
-      image: "/cube-2.jpg",
+      image: "./dist/images/cube-2.jpg",
     },
     {
       id: 3,
